@@ -1,3 +1,6 @@
+#### General ####
+macos-titlebar-tabs = true
+
 #### Fonts ####
 font-family = JetBrains Mono NL
 font-family-bold = JetBrains Mono NL
