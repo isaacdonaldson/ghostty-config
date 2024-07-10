@@ -1,5 +1,5 @@
 #### General ####
-macos-titlebar-tabs = true
+macos-titlebar-style = tabs
 
 #### Fonts ####
 font-family = JetBrains Mono NL
