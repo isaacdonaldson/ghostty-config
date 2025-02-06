@@ -9,7 +9,8 @@ clipboard-write = allow
 
 #### Shaders ####
 # CRT shader emulates a retro CRT (glitches, glowing, dot matrix, etc...)
-custom-shader = shaders/crt.glsl
+
+# custom-shader = shaders/crt.glsl
 
 
 #### Fonts ####
